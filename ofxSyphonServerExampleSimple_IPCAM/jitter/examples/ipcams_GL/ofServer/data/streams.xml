@@ -1,0 +1,14 @@
+<streams>
+	
+	<stream address="http://82.95.108.223:443/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam0" type="ipcam" username="" password=""/>
+	<stream address="http://148.61.142.228/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam1" type="ipcam" username="" password=""/>
+	<stream address="http://82.79.176.85:8081/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam2" type="ipcam" username="" password=""/>
+	<stream address="http://iomaui.com:8001/axis-cgi/mjpg/video.cgi?resolution=320x240" name="ipcam3" type="ipcam" username="" password=""/>
+	
+	<!--
+	<stream address="http://134.84.229.45:5000/" name="ipcam0" type="ipcam" username="admin" password="powerful"/>
+	<stream address="http://134.84.229.45:5001/" name="ipcam1" type="ipcam" username="admin" password="powerful"/>
+	<stream address="http://134.84.229.45:5002/" name="ipcam2" type="ipcam" username="admin" password="powerful"/>
+	<stream address="http://134.84.229.45:5003/" name="ipcam3" type="ipcam" username="admin" password="powerful"/>
+	-->
+</streams>

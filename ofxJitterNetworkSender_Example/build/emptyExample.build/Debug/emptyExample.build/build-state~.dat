@@ -1,0 +1,1507 @@
+TemptyExample
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004D55C8270000000000000D03
+t1297467431
+s3331
+i"syslimits.h"
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004D55C8260000000000003197
+t1297467430
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/stdint.h
+c000000004D55CD3B000000000000190C
+t1297468731
+s6412
+
+N/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004D55C5660000000000000155
+t1297466726
+s341
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004BD2589F0000000000043820
+t1272076447
+s276512
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004CD606210000000002B48610
+t1289094689
+s45385232
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D77144E00000000005198C0
+t1299649614
+s5347520
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004CD606A40000000000781330
+t1289094820
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004CD606F8000000000017B260
+t1289094904
+s1552992
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004B9106A400000000000064F9
+t1267795620
+s25849
+
+N/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004B9106A40000000000001F41
+t1267795620
+s8001
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B8E4E9E0000000000025B59
+t1267617438
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B8E4E9E0000000000003F84
+t1267617438
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D7713DA0000000000043330
+t1299649498
+s275248
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004CC420410000000000000659
+t1287921729
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004D40EADD0000000000783960
+t1296100061
+s7879008
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/../../../libs/glut/lib/osx/GLUT.framework
+c000000004D74726500000000000000CC
+t1299477093
+s204
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c000000004D7472650000000000092A98
+t1299477093
+s600728
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Info.plist
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/emptyExampleDebug.LinkFileList
+c000000004DCC3D3A0000000000000177
+t1305230650
+s375
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+t2
+s0
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004DCC3D3A0000000000000113
+t1305230650
+s275
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp
+c000000004DCC3CFD00000000000001AA
+t1305230589
+s426
+i"ofMain.h"
+i"testApp.h"
+i"ofAppGlutWindow.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp
+c0000000049DF69E10000000000002082
+t1239378401
+s8322
+i"testApp.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h
+c000000004DCC3CFD0000000000000649
+t1305230589
+s1609
+i"ofMain.h"
+i"ofxNetwork.h"
+i"ofxJitterNetworkSender.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/fmodex/include/fmod.h
+c000000004D7472640000000000028E68
+t1299477092
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/fmodex/include/fmod_codec.h
+c000000004D747264000000000000334A
+t1299477092
+s13130
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/fmodex/include/fmod_dsp.h
+c000000004D747264000000000000892F
+t1299477092
+s35119
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/fmodex/include/fmod_errors.h
+c000000004D7472640000000000003408
+t1299477092
+s13320
+i"fmod.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/fmodex/include/fmod_memoryinfo.h
+c000000004D7472640000000000003C95
+t1299477092
+s15509
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/glew/include/GL/glew.h
+c000000004DC1C0B700000000000C1916
+t1304543415
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/3d/of3dUtils.h
+c000000004DB8DDE8000000000000002B
+t1303961064
+s43
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/3d/ofCamera.h
+c000000004DB8DDE80000000000000830
+t1303961064
+s2096
+i"ofRectangle.h"
+i"ofAppRunner.h"
+i"ofNode.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/3d/ofEasyCam.h
+c000000004DB8DDE8000000000000053C
+t1303961064
+s1340
+i"ofCamera.h"
+i"ofEvents.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/3d/ofMesh.h
+c000000004DB8DDE80000000000001032
+t1303961064
+s4146
+i"ofVec3f.h"
+i"ofVec2f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofConstants.h"
+i"ofGLUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/3d/ofNode.h
+c000000004D747265000000000000143C
+t1299477093
+s5180
+i"ofVectorMath.h"
+i"of3dUtils.h"
+i"ofGraphics.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004DB8DDE8000000000000057B
+t1303961064
+s1403
+i"ofPoint.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004DC251810000000000000690
+t1304580481
+s1680
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"ofEvents.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/app/ofAppRunner.h
+c000000004DC23BE40000000000000675
+t1304574948
+s1653
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/app/ofBaseApp.h
+c000000004DB8DDE90000000000000577
+t1303961065
+s1399
+i"ofPoint.h"
+i"ofEvents.h"
+i"ofBaseTypes.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/communication/ofArduino.h
+c000000004DB8DDE90000000000004200
+t1303961065
+s16896
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/communication/ofSerial.h
+c000000004DB8DDE90000000000000DA9
+t1303961065
+s3497
+i"ofConstants.h"
+i"ofTypes.h"
+i<termios.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/events/ofEventUtils.h
+c000000004DB8DDE90000000000000DAD
+t1303961065
+s3501
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+i<stdio.h>
+i<stdlib.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/events/ofEvents.h
+c000000004DB8DDE90000000000001B97
+t1303961065
+s7063
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofFbo.h
+c000000004DB8DDE90000000000000BCD
+t1303961065
+s3021
+i"ofTexture.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofGLUtils.h
+c000000004DB8DDE90000000000000A33
+t1303961065
+s2611
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofLight.h
+c000000004DB8DDE9000000000000062B
+t1303961065
+s1579
+i"ofNode.h"
+i"ofColor.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofShader.h
+c000000004DB8DDE90000000000000F84
+t1303961065
+s3972
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i<map>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofTexture.h
+c000000004DC100170000000000000D70
+t1304494103
+s3440
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofBaseTypes.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/gl/ofVbo.h
+c000000004DB8DDE90000000000000A11
+t1303961065
+s2577
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofMesh.h"
+i"ofGLUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofGraphics.h
+c000000004DB8DDE90000000000001CA5
+t1303961065
+s7333
+i"ofConstants.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofMatrix4x4.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofImage.h
+c000000004DB8DDE90000000000001282
+t1303961065
+s4738
+i"ofFileUtils.h"
+i"ofTexture.h"
+i"ofPixels.h"
+i"ofBaseTypes.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofPath.h
+c000000004DB8DDE90000000000001196
+t1303961065
+s4502
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofColor.h"
+i"ofPolyline.h"
+i"ofBaseTypes.h"
+i"ofMesh.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofPixelUtils.h
+c000000004DB8DDE9000000000000044F
+t1303961065
+s1103
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofPixels.h
+c000000004DB8E2340000000000000789
+t1303962164
+s1929
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofColor.h"
+i"ofPixelUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofPolyline.h
+c000000004D7472650000000000000BC1
+t1299477093
+s3009
+i"ofPoint.h"
+i"ofConstants.h"
+i<deque>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004DB8DDE900000000000007F4
+t1303961065
+s2036
+i<vector>
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofPath.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofMath.h
+c000000004D7472650000000000000A73
+t1299477093
+s2675
+i"ofPoint.h"
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofMatrix3x3.h
+c000000004D7472650000000000000A4C
+t1299477093
+s2636
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofMatrix4x4.h
+c000000004DB8DDE90000000000006D64
+t1303961065
+s28004
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofQuaternion.h"
+i"ofConstants.h"
+i<cmath>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofQuaternion.h
+c000000004DB8DDE900000000000033BD
+t1303961065
+s13245
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i<cmath>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofVec2f.h
+c000000004DC237D1000000000000407D
+t1304573905
+s16509
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofVec3f.h
+c000000004D74726500000000000061A8
+t1299477093
+s25000
+i"ofVec2f.h"
+i"ofVec4f.h"
+i"ofConstants.h"
+i<cmath>
+i<iostream>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofVec4f.h
+c000000004D7472650000000000002EC3
+t1299477093
+s11971
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/math/ofVectorMath.h
+c000000004D7472650000000000000099
+t1299477093
+s153
+i"ofVec2f.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofMatrix3x3.h"
+i"ofMatrix4x4.h"
+i"ofQuaternion.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/ofMain.h
+c000000004DB8DDE90000000000000544
+t1303961065
+s1348
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofSystemUtils.h"
+i"ofThread.h"
+i"ofURLFileLoader.h"
+i"ofUtils.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofMath.h"
+i"ofVectorMath.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofFbo.h"
+i"ofShader.h"
+i"ofPixels.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+i"ofVbo.h"
+i"of3dUtils.h"
+i"ofNode.h"
+i"ofCamera.h"
+i"ofMesh.h"
+i"ofEasyCam.h"
+i"ofLight.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000004D7472650000000000000366
+t1299477093
+s870
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000004DB8DDE900000000000002D4
+t1303961065
+s724
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c000000004D74726500000000000006D9
+t1299477093
+s1753
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofOpenALSoundPlayer.h
+c000000004DB8DDE90000000000000E81
+t1303961065
+s3713
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"ofEvents.h"
+i"ofThread.h"
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AL/al.h>
+i<AL/alc.h>
+i"kiss_fft.h"
+i"kiss_fftr.h"
+i<sndfile.h>
+i<mpg123.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c000000004DB8DDE9000000000000048C
+t1303961065
+s1164
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004DB8DDE900000000000008EC
+t1303961065
+s2284
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+i"ofBaseTypes.h"
+i"ofBaseSoundPlayer.h"
+i"ofQuicktimeSoundPlayer.h"
+i"ofFmodSoundPlayer.h"
+i"ofOpenALSoundPlayer.h"
+i"ofxOpenALSoundPlayer.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/sound/ofSoundStream.h
+c000000004DB8DDE900000000000005C6
+t1303961065
+s1478
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofBaseApp.h"
+i"ofxAndroidSoundStream.h"
+i"ofRtAudioSoundStream.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/types/ofBaseTypes.h
+c000000004DB8DDE90000000000002A10
+t1303961065
+s10768
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofColor.h"
+i"ofMesh.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/types/ofColor.h
+c000000004DB8DDE90000000000000B50
+t1303961065
+s2896
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/types/ofPoint.h
+c000000004DB8DDE9000000000000003D
+t1303961065
+s61
+i"ofVec3f.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/types/ofRectangle.h
+c000000004DB8DDE90000000000000454
+t1303961065
+s1108
+i"ofPoint.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/types/ofTypes.h
+c000000004D747265000000000000076F
+t1299477093
+s1903
+i"ofConstants.h"
+i"ofColor.h"
+i"Poco/Mutex.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofConstants.h
+c000000004DB8DDE90000000000002FD4
+t1303961065
+s12244
+i<TargetConditionals.h>
+i<windows.h>
+i"GL\glew.h"
+i"GL\wglew.h"
+i"glu.h"
+i<unistd.h>
+i"glew.h"
+i<OpenGL/gl.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i<GL/glew.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<unistd.h>
+i<GLES/gl.h>
+i<GLES/glext.h>
+i"glu.h"
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofFileUtils.h
+c000000004DB8DDE90000000000001CCD
+t1303961065
+s7373
+i"ofConstants.h"
+i"Poco/File.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofLog.h
+c000000004D8506C90000000000000298
+t1300563657
+s664
+i"ofConstants.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofSystemUtils.h
+c000000004DB8DDE900000000000001AC
+t1303961065
+s428
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofThread.h
+c000000004DB4FDDF000000000000050C
+t1303707103
+s1292
+i"ofConstants.h"
+i"ofTypes.h"
+i<process.h>
+i<pthread.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofURLFileLoader.h
+c000000004D7472650000000000000712
+t1299477093
+s1810
+i"ofThread.h"
+i"ofEvents.h"
+i"ofFileUtils.h"
+i<deque>
+i<queue>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/utils/ofUtils.h
+c000000004DB624A40000000000001341
+t1303782564
+s4929
+i"ofConstants.h"
+i<bitset>
+i"ofLog.h"
+i<shellapi.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofDirectShowGrabber.h
+c000000004D7472650000000000000475
+t1299477093
+s1141
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"videoInput.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofGstUtils.h
+c000000004DB8DDE90000000000000FA6
+t1303961065
+s4006
+i"ofConstants.h"
+i<gst/gst.h>
+i<gst/app/gstappsink.h>
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofEvents.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofGstVideoGrabber.h
+c000000004D7472650000000000000542
+t1299477093
+s1346
+i"ofGstUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofGstVideoPlayer.h
+c000000004D7472650000000000000574
+t1299477093
+s1396
+i"ofGstUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofQtUtils.h
+c000000004D74726500000000000006B5
+t1299477093
+s1717
+i"ofConstants.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofQuickTimeGrabber.h
+c000000004D7472650000000000000648
+t1299477093
+s1608
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofQuickTimePlayer.h
+c000000004D74726500000000000008B8
+t1299477093
+s2232
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofQtUtils.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004DB8DDE900000000000009D6
+t1303961065
+s2518
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofiPhoneVideoGrabber.h"
+i"ofQuickTimeGrabber.h"
+i"ofDirectShowGrabber.h"
+i"ofGstVideoGrabber.h"
+i"ofxAndroidVideoGrabber.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004DB8E0E40000000000000ABD
+t1303961828
+s2749
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofGstVideoPlayer.h"
+i"ofQuickTimePlayer.h"
+i"ofiPhoneVideoPlayer.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c000000004DB8DDE9000000000000034B
+t1303961065
+s843
+i"ofVideoGrabber.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c000000004DB8DDE90000000000000612
+t1303961065
+s1554
+i"ofPixels.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i"ofVideoPlayer.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000004DCC3D3A00000000009AC760
+t1305230650
+s10143584
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/AbstractDelegate.h
+c000000004D7472650000000000000B59
+t1299477093
+s2905
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/AbstractEvent.h
+c000000004D7472650000000000002D7C
+t1299477093
+s11644
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ActiveMethod.h
+c000000004D7472650000000000001C64
+t1299477093
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ActiveResult.h
+c000000004D7472650000000000002E66
+t1299477093
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ActiveRunnable.h
+c000000004D7472650000000000001785
+t1299477093
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ActiveStarter.h
+c000000004D7472650000000000000927
+t1299477093
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/AtomicCounter.h
+c000000004DB8DDE90000000000001D13
+t1303961065
+s7443
+i"Poco/Foundation.h"
+i"Poco/UnWindows.h"
+i<libkern/OSAtomic.h>
+i"Poco/Mutex.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/AutoPtr.h
+c000000004D7472650000000000001E0C
+t1299477093
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Bugcheck.h
+c000000004D74726500000000000014A9
+t1299477093
+s5289
+i"Poco/Foundation.h"
+i<string>
+i<iostream>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/CompareFunctions.h
+c000000004D74726500000000000007EC
+t1299477093
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Config.h
+c000000004D7472650000000000000E22
+t1299477093
+s3618
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Delegate.h
+c000000004D7472650000000000001828
+t1299477093
+s6184
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Event.h
+c000000004D7472650000000000000E21
+t1299477093
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Event_POSIX.h
+c000000004D7472650000000000000A91
+t1299477093
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Event_WIN32.h
+c000000004D747265000000000000093F
+t1299477093
+s2367
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Exception.h
+c000000004D747265000000000000283D
+t1299477093
+s10301
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Expire.h
+c000000004D7472650000000000000D0D
+t1299477093
+s3341
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/FIFOEvent.h
+c000000004DC21CDA0000000000000B15
+t1304567002
+s2837
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/FIFOStrategy.h
+c000000004D7472650000000000001116
+t1299477093
+s4374
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File.h
+c000000004D7472650000000000001F91
+t1299477093
+s8081
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+i<vector>
+i"File_WINCE.h"
+i"Poco/File_WIN32U.h"
+i"Poco/File_WIN32.h"
+i"Poco/File_UNIX.h"
+i"Poco/File_VMS.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File_UNIX.h
+c000000004D7472650000000000000BC1
+t1299477093
+s3009
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File_VMS.h
+c000000004D7472650000000000000BBC
+t1299477093
+s3004
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File_WIN32.h
+c000000004D7472650000000000000C0C
+t1299477093
+s3084
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File_WIN32U.h
+c000000004D7472650000000000000C2B
+t1299477093
+s3115
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/File_WINCE.h
+c000000004D7472650000000000000C2C
+t1299477093
+s3116
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Foundation.h
+c000000004D74726500000000000010BE
+t1299477093
+s4286
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/FunctionDelegate.h
+c000000004D74726500000000000013C8
+t1299477093
+s5064
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Mutex.h
+c000000004D7472650000000000001D9F
+t1299477093
+s7583
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WINCE.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004D7472650000000000000AC3
+t1299477093
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004D7472650000000000000A04
+t1299477093
+s2564
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Mutex_WINCE.h
+c000000004D7472650000000000000870
+t1299477093
+s2160
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/NotificationStrategy.h
+c000000004D7472660000000000000B48
+t1299477094
+s2888
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Platform.h
+c000000004D7472660000000000001AF7
+t1299477094
+s6903
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Platform_POSIX.h
+c000000004D7472660000000000000843
+t1299477094
+s2115
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Platform_VMS.h
+c000000004D7472660000000000000BAA
+t1299477094
+s2986
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Platform_WIN32.h
+c000000004D7472660000000000000DCF
+t1299477094
+s3535
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/RefCountedObject.h
+c000000004D7472660000000000000BB1
+t1299477094
+s2993
+i"Poco/Foundation.h"
+i"Poco/AtomicCounter.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Runnable.h
+c000000004D7472660000000000000861
+t1299477094
+s2145
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ScopedLock.h
+c000000004D7472660000000000000B7F
+t1299477094
+s2943
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/SharedPtr.h
+c000000004D7472660000000000002278
+t1299477094
+s8824
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/AtomicCounter.h"
+i<algorithm>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/SignalHandler.h
+c000000004D74726600000000000011EB
+t1299477094
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/SingletonHolder.h
+c000000004D7472660000000000000A67
+t1299477094
+s2663
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Thread.h
+c000000004D7472660000000000001E10
+t1299477094
+s7696
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WINCE.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/ThreadPool.h
+c000000004D7472660000000000001C8A
+t1299477094
+s7306
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Thread_POSIX.h
+c000000004D74726600000000000013B7
+t1299477094
+s5047
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<limits.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Thread_WIN32.h
+c000000004D7472660000000000001301
+t1299477094
+s4865
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Thread_WINCE.h
+c000000004D7472660000000000001276
+t1299477094
+s4726
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Timestamp.h
+c000000004D7472660000000000001A41
+t1299477094
+s6721
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/Types.h
+c000000004D7472660000000000001926
+t1299477094
+s6438
+i"Poco/Foundation.h"
+
+N/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/libs/poco/include/Poco/UnWindows.h
+c000000004D7472660000000000000FC3
+t1299477094
+s4035
+i<windows.h>
+
+N/usr/include/TargetConditionals.h
+c000000004A8D4DF700000000000031E9
+t1250774519
+s12777
+
+N/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/usr/include/inttypes.h
+c000000004BBD2CE900000000000027D1
+t1270689001
+s10193
+
+N/usr/include/libkern/OSAtomic.h
+c000000004BBD2CE90000000000002519
+t1270689001
+s9497
+
+N/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/usr/include/sys/_types.h
+c000000004CC3DE680000000000001845
+t1287904872
+s6213
+
+N/usr/include/sys/select.h
+c000000004CC3DE6700000000000016A2
+t1287904871
+s5794
+
+N/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch
+t2
+s0
+
+NopenFrameworks-Info.plist
+c000000004D74725F0000000000000277
+t1299477087
+s631
+
+CBuild AST from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp
+r0
+
+CBuild AST from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6bbbc9ba747cb341^9cdce3ba747cb341^---0#1#0#--18"Check dependencies
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s326923454.689050
+e326923456.657095
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+x/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp:2:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:4:24: error: ofxNetwork.h: No such file or directory
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:6:36: error: ofxJitterNetworkSender.h: No such file or directory
+oIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp:2:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:30: error: 'ofxTCPClient' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:43: error: 't_jit_net_packet_header' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:44: error: 't_jit_net_packet_matrix' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:45: error: 't_jit_net_packet_latency' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:48: error: 't_jit_net_packet_header' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:58: error: 't_jit_net_packet_header' has not been declared
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:59: error: 't_jit_net_packet_matrix' has not been declared
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: ISO C++ forbids declaration of 't_jit_net_packet_header' with no type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: expected ';' before '*' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected `;' before 't_jit_net_packet_matrix'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected ';' before '*' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:70: error: expected `;' before 'int'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:71: error: 'MAXDATASIZE' was not declared in this scope
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Compile /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp8480b0be747cb341^124da8c0747cb341^-3172"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp:2:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:4:24: error: ofxNetwork.h: No such file or directory/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:6:36: error: ofxJitterNetworkSender.h: No such file or directoryIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp:2:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:30: error: 'ofxTCPClient' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:43: error: 't_jit_net_packet_header' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:44: error: 't_jit_net_packet_matrix' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:45: error: 't_jit_net_packet_latency' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:48: error: 't_jit_net_packet_header' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:58: error: 't_jit_net_packet_header' has not been declared/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:59: error: 't_jit_net_packet_matrix' has not been declared/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: ISO C++ forbids declaration of 't_jit_net_packet_header' with no type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: expected ';' before '*' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected `;' before 't_jit_net_packet_matrix'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected ';' before '*' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:70: error: expected `;' before 'int'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:71: error: 'MAXDATASIZE' was not declared in this scope16(21%IDEActivityLogMessage2@39"OfxNetwork.h: No such file or directory-326923455#147#176#2(36%IDEActivityLogHeaderInclusionMessage3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923455#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@165"OfxNetwork.h: No such file or directory in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923455#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@51"OfxJitterNetworkSender.h: No such file or directory-326923455#323#188#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923455#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@177"OfxJitterNetworkSender.h: No such file or directory in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923455#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@35"'ofxTCPClient' does not name a type-326923456#658#170#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@161"'ofxTCPClient' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_header' does not name a type-326923456#828#181#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_header' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_matrix' does not name a type-326923456#1009#181#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_matrix' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^43#18446744073709551615#43#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^43#18446744073709551615#43#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@47"'t_jit_net_packet_latency' does not name a type-326923456#1190#182#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_latency' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_header' does not name a type-326923456#1372#181#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_header' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^47#18446744073709551615#47#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^47#18446744073709551615#47#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@47"'t_jit_net_packet_header' has not been declared-326923456#1553#182#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_header' has not been declared in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@47"'t_jit_net_packet_matrix' has not been declared-326923456#1735#182#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_matrix' has not been declared in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@69"ISO C++ forbids declaration of 't_jit_net_packet_header' with no type-326923456#1917#204#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@195"ISO C++ forbids declaration of 't_jit_net_packet_header' with no type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-326923456#2121#164#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@155"Expected ';' before '*' token in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@45"Expected `;' before 't_jit_net_packet_matrix'-326923456#2285#180#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@171"Expected `;' before 't_jit_net_packet_matrix' in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@69"ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type-326923456#2465#204#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@195"ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-326923456#2669#164#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@155"Expected ';' before '*' token in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `;' before 'int'-326923456#2833#160#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@151"Expected `;' before 'int' in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@44"'MAXDATASIZE' was not declared in this scope-326923456#2993#179#2(3@143"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp-326923456#18446744073709551615#0#-0#-4@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^1#18446744073709551615#1#18446744073709551615#18446744073709551615#0#---2@170"'MAXDATASIZE' was not declared in this scope in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--0#0#0#-19%DVTDocumentLocation5@137"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp0000000000000000^2639"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I../../../libs/glew/include/GL -I../../../libs/assimp/include -I../../../libs/assimp/include/Compiler -I../../../libs/fmodex/include -I../../../libs/freeimage/include -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h -c /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/main.cpp -o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/main.o
+
+CCompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s326923454.689640
+e326923456.769309
+r0
+xCompileC
+xbuild/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+x/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:1:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:4:24: error: ofxNetwork.h: No such file or directory
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:6:36: error: ofxJitterNetworkSender.h: No such file or directory
+oIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:1:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:30: error: 'ofxTCPClient' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:43: error: 't_jit_net_packet_header' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:44: error: 't_jit_net_packet_matrix' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:45: error: 't_jit_net_packet_latency' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:48: error: 't_jit_net_packet_header' does not name a type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:58: error: 't_jit_net_packet_header' has not been declared
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:59: error: 't_jit_net_packet_matrix' has not been declared
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: ISO C++ forbids declaration of 't_jit_net_packet_header' with no type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: expected ';' before '*' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected `;' before 't_jit_net_packet_matrix'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected ';' before '*' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:70: error: expected `;' before 'int'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:71: error: 'MAXDATASIZE' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'virtual void testApp::setup()':
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:23: error: 'mono' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:24: error: 'monosm' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:40: error: 'tcpClient' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'virtual void testApp::update()':
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:64: error: 'matrixHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:70: error: 'chunkHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:70: error: 'class ofVideoPlayer' has no member named 'offscreenGWorldPixels'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:75: error: 'chunkHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:75: error: 'class ofVideoGrabber' has no member named 'offscreenGWorldPixels'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:83: error: 'tcpClient' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::sendText(std::string)':
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'm_messageHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'JIT_MESSAGE_PACKET_ID' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'SWAP32' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:104: error: 'tcpClient' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: At global scope:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:184: error: prototype for 'void testApp::mouseReleased()' does not match any in class 'testApp'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:20: error: candidate is: virtual void testApp::mouseReleased(int, int, int)
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::makeMatrixHeader(int, int, int*, int)':
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'm_chunkHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'JIT_MATRIX_PACKET_ID' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'SWAP32' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:211: error: 't_jit_net_packet_matrix' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:213: error: 'm_matrixHeader' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:223: error: 'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:235: error: 'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: At global scope:
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: variable or field 'sendMatrix' declared void
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: 't_jit_net_packet_header' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: 'headerPacket' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:246: error: 't_jit_net_packet_matrix' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:246: error: 'matrixInfoPacket' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:247: error: expected primary-expression before 'char'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::readResponse()':
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'tcpClient' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'buf' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'MAXDATASIZE' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: 'm_latencyPacket' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: 't_jit_net_packet_latency' was not declared in this scope
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: expected primary-expression before ')' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: expected `)' before 'buf'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:274: error: expected primary-expression before ')' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:274: error: expected `)' before 'buf'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:275: error: expected primary-expression before ')' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:275: error: expected `)' before 'buf'
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:276: error: expected primary-expression before ')' token
+o/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:276: error: expected `)' before 'buf'
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Compile /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cppebaab0be747cb341^5c01c5c0747cb341^-11926"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:1:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:4:24: error: ofxNetwork.h: No such file or directory/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:6:36: error: ofxJitterNetworkSender.h: No such file or directoryIn file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:1:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:30: error: 'ofxTCPClient' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:43: error: 't_jit_net_packet_header' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:44: error: 't_jit_net_packet_matrix' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:45: error: 't_jit_net_packet_latency' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:48: error: 't_jit_net_packet_header' does not name a type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:58: error: 't_jit_net_packet_header' has not been declared/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:59: error: 't_jit_net_packet_matrix' has not been declared/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: ISO C++ forbids declaration of 't_jit_net_packet_header' with no type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:67: error: expected ';' before '*' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected `;' before 't_jit_net_packet_matrix'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:68: error: expected ';' before '*' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:70: error: expected `;' before 'int'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:71: error: 'MAXDATASIZE' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'virtual void testApp::setup()':/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:23: error: 'mono' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:24: error: 'monosm' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:40: error: 'tcpClient' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'virtual void testApp::update()':/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:64: error: 'matrixHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:70: error: 'chunkHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:70: error: 'class ofVideoPlayer' has no member named 'offscreenGWorldPixels'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:75: error: 'chunkHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:75: error: 'class ofVideoGrabber' has no member named 'offscreenGWorldPixels'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:83: error: 'tcpClient' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::sendText(std::string)':/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'm_messageHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'JIT_MESSAGE_PACKET_ID' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:97: error: 'SWAP32' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:104: error: 'tcpClient' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: At global scope:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:184: error: prototype for 'void testApp::mouseReleased()' does not match any in class 'testApp'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h:20: error: candidate is: virtual void testApp::mouseReleased(int, int, int)/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::makeMatrixHeader(int, int, int*, int)':/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'm_chunkHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'JIT_MATRIX_PACKET_ID' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:210: error: 'SWAP32' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:211: error: 't_jit_net_packet_matrix' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:213: error: 'm_matrixHeader' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:223: error: 'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:235: error: 'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: At global scope:/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: variable or field 'sendMatrix' declared void/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: 't_jit_net_packet_header' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:245: error: 'headerPacket' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:246: error: 't_jit_net_packet_matrix' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:246: error: 'matrixInfoPacket' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:247: error: expected primary-expression before 'char'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp: In member function 'void testApp::readResponse()':/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'tcpClient' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'buf' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:267: error: 'MAXDATASIZE' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: 'm_latencyPacket' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: 't_jit_net_packet_latency' was not declared in this scope/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: expected primary-expression before ')' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:273: error: expected `)' before 'buf'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:274: error: expected primary-expression before ')' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:274: error: expected `)' before 'buf'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:275: error: expected primary-expression before ')' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:275: error: expected `)' before 'buf'/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:276: error: expected primary-expression before ')' token/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp:276: error: expected `)' before 'buf'59(21%IDEActivityLogMessage2@39"OfxNetwork.h: No such file or directory-326923455#150#176#2(36%IDEActivityLogHeaderInclusionMessage3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923455#18446744073709551615#0#-0#-23%DVTTextDocumentLocation4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@165"OfxNetwork.h: No such file or directory in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923455#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^3#18446744073709551615#3#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@51"OfxJitterNetworkSender.h: No such file or directory-326923455#326#188#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923455#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@177"OfxJitterNetworkSender.h: No such file or directory in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923455#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^5#18446744073709551615#5#18446744073709551615#18446744073709551615#0#28"*: No such file or directory--2@35"'ofxTCPClient' does not name a type-326923456#664#170#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@161"'ofxTCPClient' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_header' does not name a type-326923456#834#181#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_header' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^42#18446744073709551615#42#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_matrix' does not name a type-326923456#1015#181#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_matrix' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^43#18446744073709551615#43#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^43#18446744073709551615#43#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@47"'t_jit_net_packet_latency' does not name a type-326923456#1196#182#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_latency' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^44#18446744073709551615#44#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@46"'t_jit_net_packet_header' does not name a type-326923456#1378#181#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@172"'t_jit_net_packet_header' does not name a type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^47#18446744073709551615#47#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^47#18446744073709551615#47#18446744073709551615#18446744073709551615#0#24"'*' does not name a type--2@47"'t_jit_net_packet_header' has not been declared-326923456#1559#182#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_header' has not been declared in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^57#18446744073709551615#57#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@47"'t_jit_net_packet_matrix' has not been declared-326923456#1741#182#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@173"'t_jit_net_packet_matrix' has not been declared in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^58#18446744073709551615#58#18446744073709551615#18446744073709551615#0#25"'*' has not been declared--2@69"ISO C++ forbids declaration of 't_jit_net_packet_header' with no type-326923456#1923#204#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@195"ISO C++ forbids declaration of 't_jit_net_packet_header' with no type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-326923456#2127#164#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@155"Expected ';' before '*' token in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^66#18446744073709551615#66#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@45"Expected `;' before 't_jit_net_packet_matrix'-326923456#2291#180#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@171"Expected `;' before 't_jit_net_packet_matrix' in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@69"ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type-326923456#2471#204#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@195"ISO C++ forbids declaration of 't_jit_net_packet_matrix' with no type in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#47"ISO C++ forbids declaration of '*' with no type--2@29"Expected ';' before '*' token-326923456#2675#164#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@155"Expected ';' before '*' token in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^67#18446744073709551615#67#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `;' before 'int'-326923456#2839#160#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@151"Expected `;' before 'int' in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@44"'MAXDATASIZE' was not declared in this scope-326923456#2999#179#2(3@146"In file included from /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp-326923456#18446744073709551615#0#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^0#18446744073709551615#0#18446744073709551615#18446744073709551615#0#---2@170"'MAXDATASIZE' was not declared in this scope in /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h-326923456#18446744073709551615#0#-0#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#---2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^70#18446744073709551615#70#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@37"'mono' was not declared in this scope-326923456#3356#174#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^22#18446744073709551615#22#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'monosm' was not declared in this scope-326923456#3530#176#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^23#18446744073709551615#23#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@42"'tcpClient' was not declared in this scope-326923456#3706#179#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^39#18446744073709551615#39#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@45"'matrixHeader' was not declared in this scope-326923456#4064#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^63#18446744073709551615#63#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"'chunkHeader' was not declared in this scope-326923456#4246#181#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@65"'class ofVideoPlayer' has no member named 'offscreenGWorldPixels'-326923456#4427#202#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^69#18446744073709551615#69#18446744073709551615#18446744073709551615#0#27"'*' has no member named '*'--2@44"'chunkHeader' was not declared in this scope-326923456#4629#181#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^74#18446744073709551615#74#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@66"'class ofVideoGrabber' has no member named 'offscreenGWorldPixels'-326923456#4810#203#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^74#18446744073709551615#74#18446744073709551615#18446744073709551615#0#27"'*' has no member named '*'--2@42"'tcpClient' was not declared in this scope-326923456#5013#179#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^82#18446744073709551615#82#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@48"'m_messageHeader' was not declared in this scope-326923456#5376#185#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^96#18446744073709551615#96#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@54"'JIT_MESSAGE_PACKET_ID' was not declared in this scope-326923456#5561#191#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^96#18446744073709551615#96#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'SWAP32' was not declared in this scope-326923456#5752#176#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^96#18446744073709551615#96#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@42"'tcpClient' was not declared in this scope-326923456#5928#180#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^103#18446744073709551615#103#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--32%IDEActivityLogContextInfoMessage5@16"At global scope:-326923456#6108#143#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@83"Prototype for 'void testApp::mouseReleased()' does not match any in class 'testApp'-326923456#6251#221#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^183#18446744073709551615#183#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@64"Candidate is: virtual void testApp::mouseReleased(int, int, int)-326923456#6472#199#-2#-4@138"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.h0000000000000000^19#18446744073709551615#19#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@46"'m_chunkHeader' was not declared in this scope-326923456#6871#184#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^209#18446744073709551615#209#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@53"'JIT_MATRIX_PACKET_ID' was not declared in this scope-326923456#7055#191#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^209#18446744073709551615#209#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@39"'SWAP32' was not declared in this scope-326923456#7246#177#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^209#18446744073709551615#209#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@56"'t_jit_net_packet_matrix' was not declared in this scope-326923456#7423#194#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^210#18446744073709551615#210#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@47"'m_matrixHeader' was not declared in this scope-326923456#7617#185#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^212#18446744073709551615#212#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@56"'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope-326923456#7802#194#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^222#18446744073709551615#222#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@56"'JIT_MATRIX_MAX_DIMCOUNT' was not declared in this scope-326923456#7996#194#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^234#18446744073709551615#234#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--5@16"At global scope:-326923456#8190#143#-0#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@44"Variable or field 'sendMatrix' declared void-326923456#8333#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^244#18446744073709551615#244#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@56"'t_jit_net_packet_header' was not declared in this scope-326923456#8515#194#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^244#18446744073709551615#244#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@45"'headerPacket' was not declared in this scope-326923456#8709#183#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^244#18446744073709551615#244#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@56"'t_jit_net_packet_matrix' was not declared in this scope-326923456#8892#194#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^245#18446744073709551615#245#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@49"'matrixInfoPacket' was not declared in this scope-326923456#9086#187#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^245#18446744073709551615#245#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@41"Expected primary-expression before 'char'-326923456#9273#179#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^246#18446744073709551615#246#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@42"'tcpClient' was not declared in this scope-326923456#9629#180#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^266#18446744073709551615#266#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@36"'buf' was not declared in this scope-326923456#9809#174#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^266#18446744073709551615#266#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"'MAXDATASIZE' was not declared in this scope-326923456#9983#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^266#18446744073709551615#266#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@48"'m_latencyPacket' was not declared in this scope-326923456#10165#186#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^272#18446744073709551615#272#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@57"'t_jit_net_packet_latency' was not declared in this scope-326923456#10351#195#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^272#18446744073709551615#272#18446744073709551615#18446744073709551615#0#34"'*' was not declared in this scope--2@44"Expected primary-expression before ')' token-326923456#10546#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^272#18446744073709551615#272#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `)' before 'buf'-326923456#10728#163#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^272#18446744073709551615#272#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@44"Expected primary-expression before ')' token-326923456#10891#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^273#18446744073709551615#273#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `)' before 'buf'-326923456#11073#163#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^273#18446744073709551615#273#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@44"Expected primary-expression before ')' token-326923456#11236#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^274#18446744073709551615#274#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `)' before 'buf'-326923456#11418#163#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^274#18446744073709551615#274#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@44"Expected primary-expression before ')' token-326923456#11581#182#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^275#18446744073709551615#275#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@25"Expected `)' before 'buf'-326923456#11763#163#-2#-4@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^275#18446744073709551615#275#18446744073709551615#18446744073709551615#0#19"Expected * before *--0#0#0#-19%DVTDocumentLocation6@140"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp0000000000000000^2651"CompileC build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o src/testApp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I../../../libs/glew/include/GL -I../../../libs/assimp/include -I../../../libs/assimp/include/Compiler -I../../../libs/fmodex/include -I../../../libs/freeimage/include -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -include /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h -c /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/src/testApp.cpp -o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Objects-normal/i386/testApp.o
+
+CLd /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/MacOS/emptyExampleDebug normal i386
+r0
+
+CPBXCp ../../../libs/glut/lib/osx/GLUT.framework bin/emptyExampleDebug.app/Contents/Frameworks/GLUT.framework
+r0
+
+CPhaseScriptExecution "Run Script" /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+r0
+
+CProcessInfoPlistFile /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s326923450.898712
+e326923450.902080
+r1
+xProcessInfoPlistFile
+x/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Process openFrameworks-Info.plist7022e6ba747cb341^95eee6ba747cb341^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/openFrameworks-Info.plist0000000000000000^624"ProcessInfoPlistFile bin/emptyExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app/Contents/Info.plist
+
+CProcessPCH++ /Users/bakercp/Library/Developer/Xcode/DerivedData/emptyExample-dwgzvhegoncbgccqvqxkobretrgs/Index/PrecompiledHeaders/Carbon-elxvmjbhqvtfqmbmeyuylokvhifz_ast/Carbon.h.pth /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH++ /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42
+s326923450.903576
+e326923454.688640
+r1
+xProcessPCH++
+x/var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h4469e7ba747cb341^8f53b0be747cb341^-95"i686-apple-darwin10-llvm-gcc-4.2: -lpthread: linker input file unused because linking not done-0#0#0#-19%DVTDocumentLocation2@76"file://localhost/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h0000000000000000^2516"ProcessPCH++ /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example    setenv LANG en_US.US-ASCII    /Developer/usr/bin/llvm-gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -fasm-blocks -Wno-deprecated-declarations -Wno-invalid-offsetof -gdwarf-2 -msse3 -mssse3 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/emptyExampleDebug.hmap -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I../../../libs/glew/include/GL -I../../../libs/assimp/include -I../../../libs/assimp/include/Compiler -I../../../libs/fmodex/include -I../../../libs/freeimage/include -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources/i386 -I/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/build/emptyExample.build/Debug/emptyExample.build/DerivedSources -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin -F/Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/lc/lcfP-+gkEgy-25Tewe1SS++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-ddkqzilsyrhtygdstoyqgofcjwjk/Carbon.h.gch
+
+CTouch /Users/bakercp/Programming/c-cpp/openFrameworks/openFrameworks/apps/MY_ADDONS/ofxJitterNetworkSender_Example/bin/emptyExampleDebug.app
+r0
+
